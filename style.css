@@ -1,0 +1,22 @@
+.box{
+    height: 115px;
+    width: 115px;
+    cursor: pointer;
+    background-color: beige;
+    font-size: 100px;
+    text-align: center;
+}
+.box:hover{
+    background-color: darkgrey;
+}
+
+#current_player_label{
+    font-size: 25px;
+}
+
+#fnt{
+    font-size: 30px;
+}
+#current_player_label{
+    font-size: 30px;
+}
