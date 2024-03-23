@@ -1,6 +1,6 @@
 .box{
-    height: 115px;
-    width: 115px;
+    height: 130px;
+    width: 140px;
     cursor: pointer;
     background-color: beige;
     font-size: 100px;
@@ -19,4 +19,16 @@
 }
 #current_player_label{
     font-size: 30px;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+
+#fnt{
+    text-align: center;
+}
+
+#tic_tac_box{
+    text-align: center;
 }
